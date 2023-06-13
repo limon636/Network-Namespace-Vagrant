@@ -1,4 +1,4 @@
-# Network-Namespace-with-vagrant
+# Network-Namespace-Vagrant
 Two namespace connected via virtual ether cable
 
 ## Install Virtualbox
